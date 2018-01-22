@@ -11,10 +11,8 @@ def get_tasks():
 
     record['id'] = 1
     record['title'] = 'Buy groceries'
-             
     task.append(record)
     record = dict()
-
     record['id'] = 2
     record['title'] = 'Learn python'
     task.append(record)
@@ -24,8 +22,6 @@ def get_tasks():
 if __name__ == '__main__':
 
  app.run(debug=True)
-
-
 
 
  def __init__(self, batchfile):
