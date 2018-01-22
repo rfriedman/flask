@@ -1,0 +1,91 @@
+{
+"site":{
+
+
+			"siteinfo":{
+				"siteid":"1",
+				"sitename":"A Chilling Experiment",
+				"siteheading":"Is ice heavier than water and why does ice float?",
+				"sitedescription":"Properties of water."
+			},
+			
+			"article":{
+				"articleid":"1",
+				"articletitle":"Is Ice Heavier Than Water?",
+				
+				"section":[
+					{
+						"sectionid":"1",
+						"sectionheading":"Hypothesis",
+						"sectionbody":"I think that ice is heavier than water because solids are heavier than liquids.",
+						"meta":"A Chilling Experiment",
+						"author":"Allen Friedman"
+						},
+					{
+						"sectionid":"2",
+						"sectionheading":"Purpose", 
+						"sectionbody":"To determine the weight of water compared to ice.  Additionally we would also like to know why there is or is not a difference through research of the properties of water.",
+						"meta":"A Chilling Experiment",
+						"author":"Allen Friedman"
+					},
+
+
+					{
+						"sectionid":"3",
+						"sectionheading":"Research", 
+						"sectionbody":"Ice floats because ice is less dense than water.  This means that given an equal volume of water and ice the water will weigh more.  Meaning that water has more H20 molecules per unit of volume than ice",
+						"meta":"Why does ice float?",
+						"author":"Allen Friedman"
+					},
+
+					{
+						"sectionid":"4",
+						"sectionheading":null, 
+						"sectionbody":"Displacement is when a body of water grows  in volume because an object is placed in it.  Buoyancy is  when water helps a object float depending on the density or shape of an object like a boat.",
+						"meta":"Displacement and Buoyancy?",
+						"author":"Allen Friedman"
+					},
+
+					
+					{
+						"sectionid":"5",
+						"sectionheading":"Experiment", 
+						"sectionbody":{"procedure":
+										[
+											"I filled a graduated cylinder with 50 ml of water and measured the mass it was 69.02 g.",
+											"Then we  froze the water for at least 5 hours.",
+											"Then we measured the ice volume and mass.the ice was 55ml and 69.01 grams.",
+											"Similar results were achieved three times in order to verify experiment.  The experiment was repeated six times the first three experiments were discarded because of bad data.  Each discarded experiment made it difficult to get accurate or precise measurements."
+											
+										]},
+						"meta":"Procedure",
+						"author":"Allen Friedman"
+					},
+					
+
+					{
+						"sectionid":"6",
+						"sectionheading":null, 
+						"sectionbody":{"materials":["1 Graduated Cylinder","Water","Scale"]},
+						"meta":"Materials",
+						"author":"Allen Friedman"
+					},
+
+										{
+						"sectionid":"7",
+						"sectionheading":"Conclusion", 
+						"sectionbody":"My hypothesis was not correct  because when the 50 ml of water froze it gained 5  ml in volume and maintained the same mass of 69.02g.  Ice is in fact less dense  than water which causes ice to float.",
+						"meta":"Density of ice",
+						"author":"Allen Friedman"
+					}
+
+
+
+				]
+				
+			}
+
+		}
+	}
+
+
